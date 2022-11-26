@@ -6,13 +6,13 @@ levels for harvesting. Aphid remedy protects against aphid infestation.
 
 #Images
 
-[![Farm][Farm]](iamges/Farma1.png)
+[![Farm][Farm]](Iamges/Farma1.png)
 
-[![Field][Field]](images/pole.png)
+[![Field][Field]](Images/pole.png)
 
-[![Shop][Shop]](images/sklep.png)
+[![Shop][Shop]](Images/sklep.png)
 
 
-[Farm]: iamges/Farma1.png
-[Field]: images/pole.png
-[Shop]: images/sklep.png
+[Farm]: Iamges/Farma1.png
+[Field]: Images/pole.png
+[Shop]: Images/sklep.png
