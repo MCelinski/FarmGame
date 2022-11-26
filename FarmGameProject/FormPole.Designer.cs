@@ -1,5 +1,5 @@
 ﻿
-namespace ZadanieDomowe1_Farma
+namespace FarmGame
 {
     partial class FormPole
     {
@@ -140,7 +140,7 @@ namespace ZadanieDomowe1_Farma
             // pictureboxPoleCarots
             // 
             this.pictureboxPoleCarots.BackColor = System.Drawing.Color.Transparent;
-            this.pictureboxPoleCarots.Image = global::ZadanieDomowe1_Farma.Properties.Resources.carrot_PNG4984;
+            this.pictureboxPoleCarots.Image = global::FarmGame.Properties.Resources.carrot_PNG4984;
             this.pictureboxPoleCarots.Location = new System.Drawing.Point(417, 294);
             this.pictureboxPoleCarots.Name = "pictureboxPoleCarots";
             this.pictureboxPoleCarots.Size = new System.Drawing.Size(125, 69);
@@ -151,7 +151,7 @@ namespace ZadanieDomowe1_Farma
             // pictureBoxPolePotatoes
             // 
             this.pictureBoxPolePotatoes.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxPolePotatoes.Image = global::ZadanieDomowe1_Farma.Properties.Resources._11_potato_png_images_pictures_download;
+            this.pictureBoxPolePotatoes.Image = global::FarmGame.Properties.Resources._11_potato_png_images_pictures_download;
             this.pictureBoxPolePotatoes.Location = new System.Drawing.Point(18, 327);
             this.pictureBoxPolePotatoes.Name = "pictureBoxPolePotatoes";
             this.pictureBoxPolePotatoes.Size = new System.Drawing.Size(125, 62);
@@ -162,7 +162,7 @@ namespace ZadanieDomowe1_Farma
             // pictureBoxPoleStrawberies
             // 
             this.pictureBoxPoleStrawberies.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxPoleStrawberies.Image = global::ZadanieDomowe1_Farma.Properties.Resources.strawberry_clip_art_17;
+            this.pictureBoxPoleStrawberies.Image = global::FarmGame.Properties.Resources.strawberry_clip_art_17;
             this.pictureBoxPoleStrawberies.Location = new System.Drawing.Point(215, 265);
             this.pictureBoxPoleStrawberies.Name = "pictureBoxPoleStrawberies";
             this.pictureBoxPoleStrawberies.Size = new System.Drawing.Size(125, 62);
@@ -185,7 +185,7 @@ namespace ZadanieDomowe1_Farma
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::ZadanieDomowe1_Farma.Properties.Resources._59372765_farm_tractor_with_sheaf_harvest_farm_landscape_illustration_field_wheat_background_farm_sunrise_back;
+            this.BackgroundImage = global::FarmGame.Properties.Resources._59372765_farm_tractor_with_sheaf_harvest_farm_landscape_illustration_field_wheat_background_farm_sunrise_back;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.labelPolePotatoes);

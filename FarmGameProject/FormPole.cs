@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ZadanieDomowe1_Farma
+namespace FarmGame
 {
     public partial class FormPole : Form
     {

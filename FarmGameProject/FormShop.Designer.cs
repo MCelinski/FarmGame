@@ -1,5 +1,5 @@
 ﻿
-namespace ZadanieDomowe1_Farma
+namespace FarmGame
 {
     partial class FormShop
     {
@@ -64,7 +64,7 @@ namespace ZadanieDomowe1_Farma
             // pictureBoxShopJuice1
             // 
             this.pictureBoxShopJuice1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxShopJuice1.Image = global::ZadanieDomowe1_Farma.Properties.Resources._6769018_carrot_juice_carrot_png_download;
+            this.pictureBoxShopJuice1.Image = global::FarmGame.Properties.Resources._6769018_carrot_juice_carrot_png_download;
             this.pictureBoxShopJuice1.Location = new System.Drawing.Point(24, 27);
             this.pictureBoxShopJuice1.Name = "pictureBoxShopJuice1";
             this.pictureBoxShopJuice1.Size = new System.Drawing.Size(166, 150);
@@ -95,7 +95,7 @@ namespace ZadanieDomowe1_Farma
             // 
             // pictureBoxShopJuice2
             // 
-            this.pictureBoxShopJuice2.Image = global::ZadanieDomowe1_Farma.Properties.Resources.nawoz_doziemniakow;
+            this.pictureBoxShopJuice2.Image = global::FarmGame.Properties.Resources.nawoz_doziemniakow;
             this.pictureBoxShopJuice2.Location = new System.Drawing.Point(566, 27);
             this.pictureBoxShopJuice2.Name = "pictureBoxShopJuice2";
             this.pictureBoxShopJuice2.Size = new System.Drawing.Size(136, 139);
@@ -136,7 +136,7 @@ namespace ZadanieDomowe1_Farma
             // 
             // pictureBoxShopJuice3
             // 
-            this.pictureBoxShopJuice3.Image = global::ZadanieDomowe1_Farma.Properties.Resources._126_K_truskawka_350_g_wiz_od;
+            this.pictureBoxShopJuice3.Image = global::FarmGame.Properties.Resources._126_K_truskawka_350_g_wiz_od;
             this.pictureBoxShopJuice3.Location = new System.Drawing.Point(12, 228);
             this.pictureBoxShopJuice3.Name = "pictureBoxShopJuice3";
             this.pictureBoxShopJuice3.Size = new System.Drawing.Size(178, 152);
@@ -148,7 +148,7 @@ namespace ZadanieDomowe1_Farma
             // pictureBoxShopShelve1
             // 
             this.pictureBoxShopShelve1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxShopShelve1.Image = global::ZadanieDomowe1_Farma.Properties.Resources.unnamed__1_;
+            this.pictureBoxShopShelve1.Image = global::FarmGame.Properties.Resources.unnamed__1_;
             this.pictureBoxShopShelve1.Location = new System.Drawing.Point(12, 27);
             this.pictureBoxShopShelve1.Name = "pictureBoxShopShelve1";
             this.pictureBoxShopShelve1.Size = new System.Drawing.Size(1104, 210);
@@ -158,7 +158,7 @@ namespace ZadanieDomowe1_Farma
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::ZadanieDomowe1_Farma.Properties.Resources.unnamed__1_1;
+            this.pictureBox1.Image = global::FarmGame.Properties.Resources.unnamed__1_1;
             this.pictureBox1.Location = new System.Drawing.Point(-20, 228);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(1125, 227);
@@ -179,7 +179,7 @@ namespace ZadanieDomowe1_Farma
             // pictureBoxShopAntidotum
             // 
             this.pictureBoxShopAntidotum.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxShopAntidotum.Image = global::ZadanieDomowe1_Farma.Properties.Resources.mszyce;
+            this.pictureBoxShopAntidotum.Image = global::FarmGame.Properties.Resources.mszyce;
             this.pictureBoxShopAntidotum.Location = new System.Drawing.Point(566, 228);
             this.pictureBoxShopAntidotum.Name = "pictureBoxShopAntidotum";
             this.pictureBoxShopAntidotum.Size = new System.Drawing.Size(136, 152);

@@ -1,5 +1,5 @@
 ﻿
-namespace ZadanieDomowe1_Farma
+namespace FarmGame
 {
     partial class FormMain
     {
@@ -84,7 +84,7 @@ namespace ZadanieDomowe1_Farma
             // pictureBoxFormMainSign
             // 
             this.pictureBoxFormMainSign.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxFormMainSign.Image = global::ZadanieDomowe1_Farma.Properties.Resources._47c0ae0a85636e9beb10eb2746111fbd;
+            this.pictureBoxFormMainSign.Image = global::FarmGame.Properties.Resources._47c0ae0a85636e9beb10eb2746111fbd;
             this.pictureBoxFormMainSign.Location = new System.Drawing.Point(416, 227);
             this.pictureBoxFormMainSign.Name = "pictureBoxFormMainSign";
             this.pictureBoxFormMainSign.Size = new System.Drawing.Size(208, 288);
@@ -96,7 +96,7 @@ namespace ZadanieDomowe1_Farma
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::ZadanieDomowe1_Farma.Properties.Resources.rogue_dragon_studio_janesfarm_main;
+            this.BackgroundImage = global::FarmGame.Properties.Resources.rogue_dragon_studio_janesfarm_main;
             this.ClientSize = new System.Drawing.Size(1346, 717);
             this.Controls.Add(this.buttonPole);
             this.Controls.Add(this.pictureBoxFormMainSign);
